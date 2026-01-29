@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Hello, I am Sopan Rathod</h1>
+  <p>Aspiring Web Developer</p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+
+  <h2>Projects</h2>
+  <p>Portfolio Website (This website)</p>
+
+  <h2>Contact</h2>
+  <p>Email:sopanrathod959@gmail.com</p>
+</body>
+</html>
